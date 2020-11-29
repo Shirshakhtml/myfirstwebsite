@@ -1,0 +1,35 @@
+body{
+  background-image: url('C:/Users/1sroy/OneDrive/Desktop/web design/udemy/flywheel.jpg');
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+.on{
+  text-decoration: none;
+  color:red;
+  font-size: 15px;
+  text-align: center;
+  }
+.on:hover{
+  color:cyan;
+}
+.butt{
+  width:150px;
+  text-align: center;
+  border-radius: 15px 15px 15px 15px;
+  margin-left: 650px;
+}
+.footer{
+  width:950px;
+  text-align: center;
+
+  position:fixed;
+  bottom:0;
+  color:orange;
+  font-size: 25px;
+  font-family: serif;
+  line-height:1px;
+  margin-left: 260px;
+}
+.footer:hover{
+  color:white;
+}
