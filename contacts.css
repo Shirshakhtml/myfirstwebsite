@@ -1,5 +1,6 @@
 body{
   background-image: url(wp1828920.jpg);
+  background-position:-120px -200px;
   background-repeat: no-repeat;
   background-size:cover;
 }
@@ -19,16 +20,16 @@ body{
   margin-left: 650px;
 }
 .footer{
-  width:950px;
   text-align: center;
-
-  position:fixed;
+  position:absolute;
   bottom:0;
   color:orange;
   font-size: 25px;
   font-family: serif;
   line-height:1px;
-  margin-left: 260px;
+  display:inline-block;
+  width:auto;
+  margin-left:1150px;
 }
 .footer:hover{
   color:white;
