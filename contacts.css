@@ -20,17 +20,16 @@ body{
   margin-left: 650px;
 }
 .footer{
-  text-align: center;
+text-align: center;
   position:absolute;
   bottom:0;
+  right: 0;
   color:orange;
   font-size: 25px;
   font-family: serif;
   line-height:1px;
-  display:inline-block;
+  float:right;
   width:auto;
-  margin-left:1150px;
-
 }
 .footer:hover{
   color:white;
