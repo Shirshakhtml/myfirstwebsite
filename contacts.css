@@ -1,8 +1,7 @@
 body{
   background-image: url(wp1828920.jpg);
-  
   background-repeat: no-repeat;
-  background-size:130%;
+  background-size:cover;
 }
 .on{
   text-decoration: none;
